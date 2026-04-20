@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Zosia & Kuba//Wesele 2027//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:871fc19a-6fa0-4b17-97f8-ea78713b053d@zosiakuba.pl
+DTSTAMP:20260420T184616Z
+DTSTART:20270828T140000Z
+DTEND:20270828T153000Z
+SUMMARY:Ślub Zosi i Kuby — Ceremonia
+DESCRIPTION:Ceremonia ślubna Zosi i Kuby.
+LOCATION:Kościół pw. Wszystkich Świętych\, Pałacowa 5\, 18-230 Ciechanowiec
+END:VEVENT
+BEGIN:VEVENT
+UID:cfe301ab-97bf-440d-8bde-6a440488ff67@zosiakuba.pl
+DTSTAMP:20260420T184616Z
+DTSTART:20270828T160000Z
+DTEND:20270829T040000Z
+SUMMARY:Wesele Zosi i Kuby — Przyjęcie
+DESCRIPTION:Przyjęcie weselne Zosi i Kuby w Hotelu Nowodwory.
+LOCATION:Hotel Nowodwory\, Pałacowa 7\, 18-230 Ciechanowiec
+END:VEVENT
+BEGIN:VEVENT
+UID:f7f4b157-b4b9-4486-b934-b8cf69a11906@zosiakuba.pl
+DTSTAMP:20260420T184616Z
+DTSTART:20270829T110000Z
+DTEND:20270829T230000Z
+SUMMARY:Wesele Zosi i Kuby — Poprawiny
+DESCRIPTION:Poprawiny — Stodoła w Hotelu Nowodwory.
+LOCATION:Hotel Nowodwory — Stodoła\, Pałacowa 7\, 18-230 Ciechanowiec
+END:VEVENT
+END:VCALENDAR
